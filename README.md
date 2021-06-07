@@ -1,6 +1,6 @@
 # vue-easy-lightbox
 
-> A Vue.js 3.0 image lightbox component with Zoom / Drag / Rotate / Switch .
+> A Vue.js 3.0 image lightbox component with Zoom / Drag / Rotate / Switch . (~8kb gziped)
 
 [![npm](https://img.shields.io/npm/v/vue-easy-lightbox.svg)](https://www.npmjs.com/package/vue-easy-lightbox)
 [![npm](https://img.shields.io/npm/l/vue-easy-lightbox.svg)](https://www.npmjs.com/package/vue-easy-lightbox)
